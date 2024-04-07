@@ -15,4 +15,5 @@
 |    CO    |   Maximum Independent Set (MIS)   |    ⭐T2T    |        ✔         |
 |  Motion  |        Motion Retargeting         |  Transmomo  |        ✔         |
 |  Motion  |          Pose Estimation          |  Openpose   |        ✔         |
+|  Motion  |          Video Matting            |  RobustVideoMatting   |        ✔         |
 | Security |       DeepLearning Security       |   ⭐WDAD    |        ✔         |
