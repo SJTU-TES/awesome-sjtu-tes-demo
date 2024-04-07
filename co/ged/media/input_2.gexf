@@ -8,27 +8,12 @@
       <attribute id="0" title="type" type="string" />
     </attributes>
     <nodes>
-      <node id="7" label="7">
-        <attvalues>
-          <attvalue for="0" value="Br" />
-        </attvalues>
-      </node>
       <node id="3" label="3">
         <attvalues>
-          <attvalue for="0" value="O" />
+          <attvalue for="0" value="S" />
         </attvalues>
       </node>
       <node id="5" label="5">
-        <attvalues>
-          <attvalue for="0" value="C" />
-        </attvalues>
-      </node>
-      <node id="8" label="8">
-        <attvalues>
-          <attvalue for="0" value="Br" />
-        </attvalues>
-      </node>
-      <node id="6" label="6">
         <attvalues>
           <attvalue for="0" value="C" />
         </attvalues>
@@ -40,57 +25,47 @@
       </node>
       <node id="0" label="0">
         <attvalues>
-          <attvalue for="0" value="C" />
+          <attvalue for="0" value="S" />
         </attvalues>
       </node>
       <node id="4" label="4">
         <attvalues>
-          <attvalue for="0" value="Br" />
+          <attvalue for="0" value="C" />
         </attvalues>
       </node>
       <node id="2" label="2">
         <attvalues>
-          <attvalue for="0" value="C" />
+          <attvalue for="0" value="N" />
         </attvalues>
       </node>
     </nodes>
     <edges>
-      <edge id="6" source="7" target="2">
+      <edge id="4" source="3" target="5">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge id="2" source="3" target="0">
-        <attvalues>
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </edge>
-      <edge id="4" source="5" target="1">
+      <edge id="2" source="3" target="1">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge id="7" source="8" target="2">
-        <attvalues>
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </edge>
-      <edge id="5" source="6" target="1">
+      <edge id="5" source="5" target="4">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
       <edge id="0" source="1" target="0">
         <attvalues>
-          <attvalue for="1" value="1" />
+          <attvalue for="1" value="2" />
         </attvalues>
       </edge>
-      <edge id="3" source="1" target="4">
+      <edge id="1" source="1" target="2">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
       </edge>
-      <edge id="1" source="0" target="2">
+      <edge id="3" source="4" target="2">
         <attvalues>
           <attvalue for="1" value="1" />
         </attvalues>
