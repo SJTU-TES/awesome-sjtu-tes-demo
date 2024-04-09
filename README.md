@@ -9,6 +9,7 @@
 |  Field   |             Category              | Technology  | Space Demo Impl. |
 |:--------:|:---------------------------------:|:-----------:|:----------------:|
 |   AIGC   |             DeepFake              |    Roop     |        ✔         |
+|   AIGC   |            FakeDetect             | UniversalFakeDetect |     ✔    |
 |    CO    |        Graph Matching (GM)        | ⭐Pygmtools |        ✔         |
 |    CO    |     Graph Edit Distance (GED)     |  ⭐GENN-A*  |        ✔         |
 |    CO    | Travelling Salesman Problem (TSP) |    ⭐T2T    |        ✔         |
